@@ -17,7 +17,11 @@ class CartBlack extends React.Component{
         <> 
     
 
-          <div class="portfolio-box" style={{backgroundColor: this.props.color}}>
+          <div class="portfolio-box" style={{
+            backgroundColor: this.props.backgroundColor,
+            fontSize:this.props.fontSize,
+            padding:this.props.padding
+            }}>
             <h2>{this.props.name}</h2>
             <hr></hr>
         </div>

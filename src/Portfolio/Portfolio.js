@@ -1,6 +1,7 @@
 import React from "react";
 import "./style.css";
 import CartBlack from "../Carts/CartBlack";
+import CartWhite from "../Carts/CartWhite";
 
 
 class Portfolio extends React.Component{
@@ -14,28 +15,13 @@ class Portfolio extends React.Component{
     
             
   <div class="portfolio-section">
-    <div class="portfolio-box">
-      <h2>Project 1</h2>
-        <hr></hr>
-    </div>
-
-    
-
-    <CartBlack color="grey" name="Hello world"/>
-
-    <div class="portfolio-box">
-      <h2>Project 3</h2>
-      <hr></hr>
-    </div>
-
-    <CartBlack color="grey" name="good noon"/>
-
-    <div class="portfolio-box">
-      <h2>Project 5</h2>
-      <hr></hr>
-    </div>
-
-    <CartBlack color="grey" name="good morning"/>
+  
+    <CartWhite backgroundColor="white"    padding="50px" fontSize="12px" name="WEB DESIGN"/>
+    <CartBlack backgroundColor="#808080"  padding="50px" fontSize="12px" name="MOBILE DESIGN"/>
+    <CartWhite backgroundColor="white"    padding="50px" fontSize="12px"  name="LOGO DESIGN"/>
+    <CartBlack backgroundColor="#808080"  padding="50px" fontSize="12px"  name="WEB APPLICATION DEVELOPMENT"/>
+    <CartWhite backgroundColor="white"    padding="50px" fontSize="12px"  name="MOBILE APPLICATION DEVELOPMENT"/>
+    <CartBlack backgroundColor="#808080"  padding="50px" fontSize="12px"  name="PWA DEVELOPMENT"/>
 
   </div>
 
