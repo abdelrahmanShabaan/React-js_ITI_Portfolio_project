@@ -12,10 +12,10 @@ class Skills extends React.Component{
 <section class="skill-me-section">
         <div class="left-columns">
             <h1 class="paragraph_style">Focuss on</h1>
-            <p class="paragraph_style">Software engineering</p>
-            <p class="paragraph_style">Software engineering</p>
-            <p class="paragraph_style">Software engineering</p>
-            <p class="paragraph_style">Software engineering</p>
+            <p class="paragraph_style">UI/UX Design</p>
+            <p class="paragraph_style">Response Design</p>
+            <p class="paragraph_style">Web Design</p>
+            <p class="paragraph_style">Mobile App Design</p>
         </div>
         <div class="right-columns">            
                 <p class="paragraph_style">HTML</p>
