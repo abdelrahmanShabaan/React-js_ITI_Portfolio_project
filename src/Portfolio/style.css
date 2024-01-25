@@ -1,0 +1,33 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+  }
+
+  .portfolio-section {
+    max-width: 800px;
+    margin: 20px auto;
+    overflow: hidden; /* Clear the float */
+  }
+
+  .portfolio-box {
+    width: calc(33.33% - 20px);
+    box-sizing: border-box;
+    padding: 20px;
+    margin: 10px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    float: left;
+  }
+
+  .portfolio-box:nth-child(3n) {
+    margin-right: 0;
+  }
+
+  /* You can customize the styles for each box if needed */
+  .portfolio-box h2 {
+    margin-top: 0;
+  }
