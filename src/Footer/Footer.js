@@ -19,7 +19,7 @@ class Footer extends React.Component{
         <div class="footer-columns">
             <div class="footer-column">
                 <h3>GET IN TOUCH</h3>
-                <p><FontAwesomeIcon icon={faEnvelope} /> abdelrahmanshaaban998@gmail.com</p>
+                <p><FontAwesomeIcon icon={faEnvelope} />  abdelrahmanshaaban998@gmail.com</p>
                 <p><FontAwesomeIcon icon={faMobilePhone} /> (+20) 010 000 111 000</p>
             </div> 
             <div class="footer-column">
