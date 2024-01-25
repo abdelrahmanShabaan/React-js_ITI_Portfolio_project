@@ -14,7 +14,12 @@ class ButtonBlack extends React.Component{
 
             return(
                 <> 
-                    <button style={{backgroundColor: this.props.color , fontSize:this.props.size , color:this.props.textcolor}}> {this.props.name}</button>
+                    <button style={{
+                        backgroundColor: this.props.backgroundcolor , 
+                        fontSize:this.props.size ,
+                        color:this.props.textcolor ,
+                        
+                        }}> {this.props.name}</button>
                 </>
             )
     }

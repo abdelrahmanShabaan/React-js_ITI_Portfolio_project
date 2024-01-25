@@ -19,6 +19,15 @@ body {
     max-width: 600px;
 }
 
+.header_names {
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.description_field {
+        font-size: 18px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
 .header-row {
     margin-bottom: 20px;
 }
