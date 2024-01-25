@@ -11,7 +11,6 @@ class ButtonBlack extends React.Component{
 
 
     render(){
-
             return(
                 <> 
                     <button style={{

@@ -10,7 +10,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #000;
+    background-image: url("https://img.freepik.com/premium-vector/dark-black-gradient-abstract-background-banner-design_236657-343.jpg");
     color: #fff;
     margin: 0 auto; /* Center the header on the page */
 }
