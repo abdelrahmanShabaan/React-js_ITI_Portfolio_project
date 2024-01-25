@@ -21,7 +21,8 @@ class AboutMe extends React.Component{
                 <br></br>and smart applications.
             </p>
             <div class="button-container">
-                <ButtonWhite name="Download Resume" textcolor="black" backgroundcolor="#e0ddd5" size="16px" padding="10px" cursor="pointer" border_radius="4px" />
+                <ButtonWhite name="Download Resume" textcolor="white" backgroundcolor="#0e0c0c" size="15px" padding="15px" cursor="pointer" border_radius="4px" border="2px solid black"  />
+                
             </div>
         </div>
         </section>

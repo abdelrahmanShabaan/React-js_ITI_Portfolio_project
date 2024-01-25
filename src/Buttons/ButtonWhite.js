@@ -4,7 +4,7 @@ import React from "react";
 class ButtonWhite extends React.Component{
 
  
-  
+    
     constructor(props){
         super()
     }
@@ -19,7 +19,8 @@ class ButtonWhite extends React.Component{
                         color:this.props.textcolor ,
                         padding:this.props.padding,
                         cursor:this.props.cursor,
-                        borderRadius:this.props.border_radius
+                        borderRadius:this.props.border_radius,
+                        border:this.props.border
                         }}> {this.props.name}</button>
                 </>
             )
