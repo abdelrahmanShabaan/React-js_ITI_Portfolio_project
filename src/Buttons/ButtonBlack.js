@@ -18,7 +18,9 @@ class ButtonBlack extends React.Component{
                         backgroundColor: this.props.backgroundcolor , 
                         fontSize:this.props.size ,
                         color:this.props.textcolor ,
-                        
+                        padding:this.props.padding,
+                        cursor:this.props.cursor,
+                        borderRadius:this.props.border_radius
                         }}> {this.props.name}</button>
                 </>
             )
