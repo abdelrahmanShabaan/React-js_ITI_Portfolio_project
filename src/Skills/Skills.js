@@ -11,29 +11,29 @@ class Skills extends React.Component{
 
 <section class="skill-me-section">
         <div class="left-columns">
-            <h1>Focuss on</h1>
-            <p>Software engineering</p>
-            <p>Software engineering</p>
-            <p>Software engineering</p>
-            <p>Software engineering</p>
+            <h1 class="paragraph_style">Focuss on</h1>
+            <p class="paragraph_style">Software engineering</p>
+            <p class="paragraph_style">Software engineering</p>
+            <p class="paragraph_style">Software engineering</p>
+            <p class="paragraph_style">Software engineering</p>
         </div>
         <div class="right-columns">            
-                <p>HTML</p>
+                <p class="paragraph_style">HTML</p>
                 <div class="container">
                 <div class="skills html">90%</div>
                 </div>
 
-                <p>CSS</p>
+                <p class="paragraph_style">CSS</p>
                 <div class="container">
                 <div class="skills css">80%</div>
                 </div>
 
-                <p>JavaScript</p>
+                <p class="paragraph_style">JavaScript</p>
                 <div class="container">
                 <div class="skills js">65%</div>
                 </div>
 
-                <p>PHP</p>
+                <p class="paragraph_style">PHP</p>
                 <div class="container">
                 <div class="skills php">60%</div>
                 </div>
