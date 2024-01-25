@@ -16,12 +16,12 @@ class Portfolio extends React.Component{
             
   <div class="portfolio-section">
   
-    <CartWhite backgroundColor="white"    padding="50px" fontSize="12px" name="WEB DESIGN"/>
-    <CartBlack backgroundColor="#808080"  padding="50px" fontSize="12px" name="MOBILE DESIGN"/>
-    <CartWhite backgroundColor="white"    padding="50px" fontSize="12px"  name="LOGO DESIGN"/>
-    <CartBlack backgroundColor="#808080"  padding="50px" fontSize="12px"  name="WEB APPLICATION DEVELOPMENT"/>
-    <CartWhite backgroundColor="white"    padding="50px" fontSize="12px"  name="MOBILE APPLICATION DEVELOPMENT"/>
-    <CartBlack backgroundColor="#808080"  padding="50px" fontSize="12px"  name="PWA DEVELOPMENT"/>
+    <CartWhite backgroundColor="white"    padding="50px" fontSize="10px" name="WEB DESIGN"/>
+    <CartBlack backgroundColor="#808080"  padding="50px" fontSize="10px" name="MOBILE DESIGN"/>
+    <CartWhite backgroundColor="white"    padding="50px" fontSize="10px"  name="LOGO DESIGN"/>
+    <CartBlack backgroundColor="#808080"  padding="50px" fontSize="10px"  name="WEB APPLICATION DEVELOPMENT"/>
+    <CartWhite backgroundColor="white"    padding="50px" fontSize="10px"  name="MOBILE APP DEVELOPMENT"/>
+    <CartBlack backgroundColor="#808080"  padding="50px" fontSize="10px"  name="PWA DEVELOPMENT"/>
 
   </div>
 
