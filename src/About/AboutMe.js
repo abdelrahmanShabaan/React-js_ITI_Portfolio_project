@@ -1,5 +1,5 @@
 import React from "react";
-
+import "./style.css";
 
 
 class AboutMe extends React.Component{
