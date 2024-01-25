@@ -4,6 +4,7 @@ import HeroSection from './Header/HeroSection';
 import AboutMe from './About/AboutMe';
 import Skills from './Skills/Skills';
 import Portfolio from './Portfolio/Portfolio';
+import Footer from './Footer/Footer';
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
         <AboutMe />
         <Skills />
         <Portfolio />
+         <Footer />
     </div>
   );
 }
