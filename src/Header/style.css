@@ -1,0 +1,51 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #f0f0f0; /* Set a light background color */
+}
+
+.portfolio-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #000;
+    color: #fff;
+    margin: 0 auto; /* Center the header on the page */
+}
+
+.header-text {
+    max-width: 600px;
+}
+
+.header-row {
+    margin-bottom: 20px;
+}
+
+.header-row h1 {
+    margin-bottom: 10px;
+    margin-left: 60px;
+
+}
+
+.header-row p {
+    font-size: 16px;
+    margin-left: 50px;
+    line-height: 1.5;
+}
+
+.header-row button {
+    padding: 10px 20px;
+    margin-left: 50px;
+    background-color: #fff;
+    color: #000;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.human-image {
+    margin-right: 150px;
+    height: auto;
+}
